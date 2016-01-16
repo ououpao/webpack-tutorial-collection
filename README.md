@@ -18,3 +18,7 @@
 
 #### DEMO
 * [webpack-demos](https://github.com/ruanyf/webpack-demos) `作者：ruanyf`　　
+
+
+#### 项目实践
+* [Vue.js 和 Webpack](http://div.io/topic/1343?page=1#5517) `作者：djyde`　　
