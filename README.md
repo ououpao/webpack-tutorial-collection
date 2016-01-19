@@ -22,3 +22,4 @@
 
 #### 项目实践
 * [Vue.js 和 Webpack](http://div.io/topic/1343?page=1#5517) `作者：djyde`　　
+* [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) `作者：chemdemo`
