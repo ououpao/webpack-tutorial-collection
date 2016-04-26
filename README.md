@@ -11,6 +11,7 @@
 * [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526#articleHeader5)  `作者：dmyang`　　
 
 ##### :muscle: 进阶教程
+* [webpack-howto](https://github.com/petehunt/webpack-howto)  `作者：Pete Hunt`　　
 * [webpack使用优化](http://web.jobbole.com/84847/)  `作者：alloyteam`　　
 * [如何开发一个 Webpack Loader ( 一 )](http://www.alloyteam.com/2016/01/webpack-loader-1/)  `作者：alloyteam`　　
 * [基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56)  `译者：CSS魔法`  
