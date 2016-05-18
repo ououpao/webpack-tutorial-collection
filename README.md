@@ -17,6 +17,8 @@
 * [基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56)  `译者：CSS魔法`  
 * [webpack常用配置总结](http://www.h-simon.com/42/) `作者：小凡哥`
 * [【翻译】Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13) `作者：chemdemo`
+* [webpack在PC项目中的应用](https://github.com/icepy/_posts/issues/25) `作者：icepy`
+* [webpack实践最后一篇](https://github.com/icepy/_posts/issues/34) `作者：icepy`
 
 ##### :star: DEMO
 * [webpack-demos](https://github.com/ruanyf/webpack-demos) `作者：ruanyf`　　
