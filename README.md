@@ -2,6 +2,9 @@
 ##### [官方文档](http://webpack.github.io/docs/)
 ##### [中文指南](http://zhaoda.net/webpack-handbook/index.html)
 ---
+##### webpack2  
+* [Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)  `作者：cssmagic`  　
+---
 ##### :v: 初级教程
 * [Webpack 入门指迷](http://segmentfault.com/a/1190000002551952)  `作者：题叶`  　　
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html)  `作者：VaJoy Larn`　　
