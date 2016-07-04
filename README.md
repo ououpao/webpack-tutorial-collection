@@ -4,6 +4,7 @@
 ---
 #### :fire: webpack2
 * [Webpack2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)  `译者：cssmagic`
+* [如何评价 Webpack 2 新引入的 Tree-shaking 代码优化技术?](https://www.zhihu.com/question/41922432) `来源：知乎`
 
 ##### :v: 初级教程
 * [Webpack 入门指迷](http://segmentfault.com/a/1190000002551952)  `作者：题叶`  　　
