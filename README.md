@@ -21,6 +21,7 @@
 * [webpack在PC项目中的应用](https://github.com/icepy/_posts/issues/25) `作者：icepy`
 * [webpack实践最后一篇](https://github.com/icepy/_posts/issues/34) `作者：icepy`
 * [webpack_performance](https://github.com/wyvernnot/webpack_performance) `作者：wyvernnot`
+* [如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042) `作者：紅白`
 
 #### :fire: webpack 2.0
 * [Webpack2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)  `译者：cssmagic`
