@@ -20,6 +20,7 @@
 * [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) `作者：chemdemo`
 * [webpack在PC项目中的应用](https://github.com/icepy/_posts/issues/25) `作者：icepy`
 * [webpack实践最后一篇](https://github.com/icepy/_posts/issues/34) `作者：icepy`
+* [webpack_performance](https://github.com/wyvernnot/webpack_performance) `作者：wyvernnot`
 
 #### :fire: webpack 2.0
 * [Webpack2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)  `译者：cssmagic`
