@@ -55,3 +55,4 @@
 * [使用 Vuex + Vue.js 构建单页应用](https://segmentfault.com/a/1190000005891026) `作者：离尘不理人`
 * [vue-vueRouter-webpack](https://github.com/vingojw/vue-vueRouter-webpack) `作者：vingojw`
 * [Vue.js 和 Webpack](http://div.io/topic/1343?page=1#5517) `作者：djyde`　　
+* [Vue+Webpack使用规范](https://www.talkingcoder.com/article/6309726065044556372)
