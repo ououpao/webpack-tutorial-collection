@@ -29,6 +29,7 @@
 * [Webpack2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)  `译者：cssmagic`
 * [如何评价 Webpack 2 新引入的 Tree-shaking 代码优化技术?](https://www.zhihu.com/question/41922432) `来源：知乎`
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.hqv8bdir5) `来源：Medium`
+* [Vue 2 + Webpack 2 脚手架](https://github.com/egoist/vuepack)
 
 ##### :diamond_shape_with_a_dot_inside: React & webpack
 * [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) `作者：erikras` 
@@ -56,3 +57,4 @@
 * [vue-vueRouter-webpack](https://github.com/vingojw/vue-vueRouter-webpack) `作者：vingojw`
 * [Vue.js 和 Webpack](http://div.io/topic/1343?page=1#5517) `作者：djyde`　　
 * [Vue+Webpack使用规范](https://www.talkingcoder.com/article/6309726065044556372)
+* [Vue 2 + Webpack 2 脚手架](https://github.com/egoist/vuepack)
