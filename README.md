@@ -1,4 +1,5 @@
 ### webpack 教程资源收集
+(持续更新，欢迎 start, watch 或提 PR)
 ##### [官方文档](http://webpack.github.io/docs/)
 ##### [中文指南](http://zhaoda.net/webpack-handbook/index.html)
 ---
