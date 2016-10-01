@@ -10,7 +10,8 @@
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html)  `作者：VaJoy Larn`　　
 * [webpack 入门及实践](http://www.w3ctech.com//topic/1557)  `作者：zhouweicsu`　　
 * [Webpack傻瓜式指南（一）](http://zhuanlan.zhihu.com/FrontendMagazine/20367175)  `译者：前端外刊评论`　　
-* [Webpack傻瓜式指南（二）](http://zhuanlan.zhihu.com/FrontendMagazine/20397902)  `译者：前端外刊评论`　　　
+* [Webpack傻瓜式指南（二）](http://zhuanlan.zhihu.com/FrontendMagazine/20397902)  `译者：前端外刊评论`　
+* [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)  `作者：zhangwang `　
 
 ##### :muscle: 进阶教程
 * [webpack使用优化](http://web.jobbole.com/84847/)  `作者：alloyteam`　　
