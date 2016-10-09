@@ -26,6 +26,7 @@
 * [如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042) `作者：紅白`
 * [Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack) `来源：ACGTOFE`
 * [webpack 单页面应用实战](https://segmentfault.com/a/1190000005866410#articleHeader11) `作者：hsw`
+* [webpack多页应用架构系列](https://segmentfault.com/a/1190000006843916#articleHeader5) `作者：array_huang`
 
 #### :fire: webpack 2.0
 * [Webpack2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)  `译者：cssmagic`
