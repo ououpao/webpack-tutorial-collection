@@ -34,6 +34,7 @@
 * [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.hqv8bdir5) `来源：Medium`
 * [Vue 2 + Webpack 2 脚手架](https://github.com/egoist/vuepack) `作者：egoist`
 * [webpack2-simple-vue2](https://github.com/vuets/webpack2-simple-vue2) `来源：vuets`
+* [超清 Webpack 2 视频教程 (持续更新)](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2) `作者：Parry`
 
 
 ##### :diamond_shape_with_a_dot_inside: React & webpack
