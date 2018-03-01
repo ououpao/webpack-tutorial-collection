@@ -36,6 +36,10 @@
 * [webpack2-simple-vue2](https://github.com/vuets/webpack2-simple-vue2) `来源：vuets`
 * [超清 Webpack 2 视频教程 (持续更新)](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2) `作者：Parry`
 
+#### :four: webpack 4.0
+* [(译)webpack4.0正式版重大更新与特性详细清单](https://mp.weixin.qq.com/s/tvhEkWTuSs8X0d5N_s79oA)  `译者：疯狂的技术宅`
+* [(译)webpack 4正式发布，速度最高可提升98%！！](https://mp.weixin.qq.com/s/mF56rpzmqdSyti1iJu4tCw)  `译者：怡红公子`
+
 
 ##### :diamond_shape_with_a_dot_inside: React & webpack
 * [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) `作者：erikras` 
